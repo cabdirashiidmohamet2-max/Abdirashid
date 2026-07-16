@@ -70,7 +70,7 @@ cabdirashiidmohamet5@gmail.com
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ab&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
@@ -80,4 +80,4 @@ cabdirashiidmohamet5@gmail.com
 
 ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,100:00c6ff&height=100&section=footer"/>
